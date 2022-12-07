@@ -9,7 +9,7 @@ const PORT: string = process.env.PORT || ''
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 app.use('/', (req: Request, res: Response) => {
-    return res.send('hello world!')
+    return res.send('Hello World!')
 })
 
 app.listen(PORT, () => {
