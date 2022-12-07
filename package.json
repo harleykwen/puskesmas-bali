@@ -1,0 +1,19 @@
+{
+  "name": "purkesmas-bali-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harleykwen/puskesmas-bali.git"
+  },
+  "author": "harleykwen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harleykwen/puskesmas-bali/issues"
+  },
+  "homepage": "https://github.com/harleykwen/puskesmas-bali#readme"
+}
